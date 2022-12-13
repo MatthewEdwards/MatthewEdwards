@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @MatthewEdwards
+- 🏢 Currently working at AND Digital as a Cloud Engineer
 - 👀 I’m interested in Cloud Engineering and network security
 - 🌱 I’m currently studying for GCP Associate Cloud Engineer exam
 
